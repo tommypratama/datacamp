@@ -12,9 +12,9 @@
    * Pelajari tentang *dictionary*, alternatif dari Python lists, dan pandas DataFrame, standar de facto untuk bekerja dengan data tabular dalam Python. Anda akan mendapatkan praktik langsung dengan membuat dan memanipulasi kumpulan data, dan Anda akan belajar cara mengakses informasi yang Anda butuhkan dari struktur data ini.
 - [x] **Logic, Control Flow and Filtering**
    * Logika Boolean adalah dasar pengambilan keputusan dalam program Python. Pelajari tentang operator perbandingan yang berbeda, cara menggabungkannya dengan operator Boolean, dan cara menggunakan hasil Boolean dalam struktur kontrol. Anda juga akan belajar memfilter data dalam pandas DataFrames menggunakan logika.
-- [ ] **Loops**
+- [x] **Loops**
    * Ada beberapa teknik yang dapat Anda gunakan untuk berulang kali mengeksekusi kode Python. *While loops* seperti pernyataan *if* yang diulangi, *for loop iterates* atas semua jenis struktur data. Pelajari semua tentang mereka di bab ini.
-- [ ] **Case Study: Hacker Statistics**
+- [x] **Case Study: Hacker Statistics**
    * Bab ini akan memungkinkan Anda untuk menerapkan semua konsep yang telah Anda pelajari dalam kursus ini. Anda akan menggunakan *hacker statistics* untuk menghitung peluang Anda memenangkan taruhan. Gunakan generator nomor acak, loop, dan Matplotlib untuk mendapatkan keunggulan kompetitif!
    
    
