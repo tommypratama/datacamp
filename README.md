@@ -39,7 +39,7 @@ Dirancang oleh instruktur ahli, Proyek DataCamp adalah langkah penting dalam per
 - [ ] [https://www.datacamp.com/projects/538](https://www.datacamp.com/projects/538)
 - [ ] [Analyze Your Runkeeper Fitness Data](https://www.datacamp.com/projects/727)
 - [ ] [Book Recommendations from Charles Darwin](https://www.datacamp.com/projects/607)
-- [ ] [Give Life: Predict Blood Donations)(https://www.datacamp.com/projects/646)
+- [ ] [Give Life: Predict Blood Donations](https://www.datacamp.com/projects/646)
 - [ ] [The Android App Market on Google Play](https://www.datacamp.com/projects/619)
 - [ ] [Find Movie Similarity from Plot Summaries](https://www.datacamp.com/projects/648)
 - [ ] [Which Debts Are Worth the Bank's Effort?](https://www.datacamp.com/projects/504)
