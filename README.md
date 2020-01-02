@@ -6,7 +6,7 @@ Seorang Analis Data menggunakan teknik visualisasi dan manipulasi data untuk men
 
 - [x] 1.  Introduction to Data Science in Python
 - [x] 2.  Intermediate Python for Data Science
-- [ ] 3.  Python Data Science Toolbox (Part 1)
+- [x] 3.  Python Data Science Toolbox (Part 1)
 - [ ] 4.  Introduction to SQL
 - [ ] 5.  Joining Data in SQL
 - [ ] 6.  Introduction to Relational Databases in SQL
@@ -36,7 +36,7 @@ Dirancang oleh instruktur ahli, Proyek DataCamp adalah langkah penting dalam per
 - [ ] [Who's Tweeting? Trump or Trudeau?](https://www.datacamp.com/projects/467)
 - [ ] [Disney Movies and Box Office Success](https://www.datacamp.com/projects/740)
 - [ ] [Comparing Cosmetics by Ingredients](https://www.datacamp.com/projects/695)
-- [ ] [https://www.datacamp.com/projects/538](https://www.datacamp.com/projects/538)
+- [ ] [Up and Down With the Kardashians](https://www.datacamp.com/projects/538)
 - [ ] [Analyze Your Runkeeper Fitness Data](https://www.datacamp.com/projects/727)
 - [ ] [Book Recommendations from Charles Darwin](https://www.datacamp.com/projects/607)
 - [ ] [Give Life: Predict Blood Donations](https://www.datacamp.com/projects/646)
@@ -57,12 +57,12 @@ Dirancang oleh instruktur ahli, Proyek DataCamp adalah langkah penting dalam per
 - [ ] [Mobile Games A/B Testing with Cookie Cats](https://www.datacamp.com/projects/184)
 - [ ] [Name Game: Gender Prediction using Sound](https://www.datacamp.com/projects/97)
 - [ ] [Classify Song Genres from Audio Data](https://www.datacamp.com/projects/449)
-- [ ] [Generating Keywords for Google Ads](https://www.datacamp.com/projects/400)
+- [x] [Generating Keywords for Google Ads](https://www.datacamp.com/projects/400)
 - [ ] [Naïve Bees: Image Loading and Processing](https://www.datacamp.com/projects/374)
 - [ ] [A New Era of Data Analysis in Baseball](https://www.datacamp.com/projects/250)
 - [ ] [The Hottest Topics in Machine Learning](https://www.datacamp.com/projects/158)
 - [ ] [Predicting Credit Card Approvals](https://www.datacamp.com/projects/558)
 - [ ] [Exploring the Evolution of Linux](https://www.datacamp.com/projects/111)
 - [ ] [Risk and Returns: The Sharpe Ratio](https://www.datacamp.com/projects/66)
-- [ ] [TV, Halftime Shows, and the Big Game](https://www.datacamp.com/projects/684)
+- [x] [TV, Halftime Shows, and the Big Game](https://www.datacamp.com/projects/684)
 - [ ] [A Network Analysis of Game of Thrones](https://www.datacamp.com/projects/76)
