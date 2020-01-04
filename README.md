@@ -10,8 +10,8 @@ Seorang Analis Data menggunakan teknik visualisasi dan manipulasi data untuk men
 - [ ] 4.  Introduction to SQL
 - [ ] 5.  Joining Data in SQL
 - [ ] 6.  Introduction to Relational Databases in SQL
-- [ ] 7.  Importing Data in Python (Part 1)
-- [ ] 8.  Importing Data in Python (Part 2)
+- [x] 7.  Importing Data in Python (Part 1)
+- [x] 8.  Importing Data in Python (Part 2)
 - [ ] 9.  Cleaning Data in Python
 - [ ] 10. Pandas Foundations
 - [ ] 11. Manipulating DataFrames with Pandas
