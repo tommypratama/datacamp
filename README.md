@@ -14,8 +14,8 @@ Seorang Analis Data menggunakan teknik visualisasi dan manipulasi data untuk men
 - [x] 8.  Importing Data in Python (Part 2)
 - [x] 9.  Cleaning Data in Python
 - [x] 10. Pandas Foundations
-- [ ] 11. Manipulating DataFrames with Pandas
-- [ ] 12. Merging DataFrames with Pandas
+- [x] 11. Manipulating DataFrames with Pandas
+- [x] 12. Merging DataFrames with Pandas
 - [ ] 13. Analyzing Police Activity With Pandas
 - [ ] 14. Introduction to Data Visualization with Python
 - [ ] 15. Statistic Thinking in Python (Part 1)
