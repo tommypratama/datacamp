@@ -6,10 +6,10 @@ Setelah semua kerja keras untuk memperoleh data dan membuatnya menjadi bentuk ya
 
 ## Daftar Isi
 
-- [ ] **Graphical exploratory data analysis**
-- [ ] **Quantitative exploratory data analysis**
-- [ ] **Thinking probabilistically-- Discrete variables**
-- [ ] **Thinking probabilistically-- Continuous variables**
+- [x] **Graphical exploratory data analysis**
+- [x] **Quantitative exploratory data analysis**
+- [x] **Thinking probabilistically-- Discrete variables**
+- [x] **Thinking probabilistically-- Continuous variables**
 
 ## Prasyarat
 
