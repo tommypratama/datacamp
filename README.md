@@ -4,22 +4,26 @@
 
 Seorang Analis Data menggunakan teknik visualisasi dan manipulasi data untuk mengungkap wawasan dan membantu organisasi membuat keputusan yang lebih baik.
 
-- [x] 1.  Introduction to Data Science in Python
-- [x] 2.  Intermediate Python for Data Science
-- [x] 3.  Python Data Science Toolbox (Part 1)
+- [x] [1.  Introduction to Data Science in Python](https://github.com/tommypratama/datacamp/tree/master/Introduction%20to%20Python)
+- [x] [2.  Intermediate Python for Data Science](https://github.com/tommypratama/datacamp/tree/master/Intermediate%20Python%20for%20Data%20Science)
+- [x] [3.  Python Data Science Toolbox (Part 1)](https://github.com/tommypratama/datacamp/tree/master/Python%20Data%20Science%20Toolbox%20(Part%201))
 - [ ] 4.  Introduction to SQL
 - [ ] 5.  Joining Data in SQL
 - [ ] 6.  Introduction to Relational Databases in SQL
-- [x] 7.  Importing Data in Python (Part 1)
-- [x] 8.  Importing Data in Python (Part 2)
-- [x] 9.  Cleaning Data in Python
-- [x] 10. Pandas Foundations
-- [x] 11. Manipulating DataFrames with Pandas
-- [x] 12. Merging DataFrames with Pandas
-- [ ] 13. Analyzing Police Activity With Pandas
-- [ ] 14. Introduction to Data Visualization with Python
-- [ ] 15. Statistic Thinking in Python (Part 1)
+- [x] [7.  Importing Data in Python (Part 1)](https://github.com/tommypratama/datacamp/tree/master/Python%20Data%20Science%20Toolbox%20(Part%201))
+- [x] [8.  Importing Data in Python (Part 2)](https://github.com/tommypratama/datacamp/tree/master/Importing%20Data%20in%20Python%20(Part%202))
+- [x] [9.  Cleaning Data in Python](https://github.com/tommypratama/datacamp/tree/master/Cleaning%20Data%20in%20Python)
+- [x] [10. Pandas Foundations](https://github.com/tommypratama/datacamp/tree/master/Pandas%20Foundations)
+- [x] [11. Manipulating DataFrames with Pandas](https://github.com/tommypratama/datacamp/tree/master/Manipulating%20DataFrames%20with%20pandas)
+- [x] [12. Merging DataFrames with Pandas](https://github.com/tommypratama/datacamp/tree/master/Merging%20DataFrames%20with%20pandas)
+- [x] [13. Analyzing Police Activity With Pandas](https://github.com/tommypratama/datacamp/tree/master/Analyzing%20Police%20Activity%20with%20pandas)
+- [x] [14. Introduction to Data Visualization with Python](https://github.com/tommypratama/datacamp/tree/master/Introduction%20to%20Data%20Visualization%20in%20Python)
+- [x] [15. Statistic Thinking in Python (Part 1)](https://github.com/tommypratama/datacamp/tree/master/Statistical%20Thinking%20in%20Python%20(Part%201))
 - [ ] 16. Statistic Thinking in Python (Part 2)
+
+### Extra
+
+- [x] [Python Data Science Toolbox (Part 2)](https://github.com/tommypratama/datacamp/tree/master/Python%20Data%20Science%20Toolbox%20(Part%202))
 
 ## Projects
 
