@@ -10,7 +10,7 @@ Seorang Analis Data menggunakan teknik visualisasi dan manipulasi data untuk men
 - [ ] 4.  Introduction to SQL
 - [ ] 5.  Joining Data in SQL
 - [ ] 6.  Introduction to Relational Databases in SQL
-- [x] [7.  Importing Data in Python (Part 1)](https://github.com/tommypratama/datacamp/tree/master/Python%20Data%20Science%20Toolbox%20(Part%201))
+- [x] [7.  Importing Data in Python (Part 1)](https://github.com/tommypratama/datacamp/tree/master/Importing%20Data%20in%20Python%20(Part%201))
 - [x] [8.  Importing Data in Python (Part 2)](https://github.com/tommypratama/datacamp/tree/master/Importing%20Data%20in%20Python%20(Part%202))
 - [x] [9.  Cleaning Data in Python](https://github.com/tommypratama/datacamp/tree/master/Cleaning%20Data%20in%20Python)
 - [x] [10. Pandas Foundations](https://github.com/tommypratama/datacamp/tree/master/Pandas%20Foundations)
@@ -24,6 +24,7 @@ Seorang Analis Data menggunakan teknik visualisasi dan manipulasi data untuk men
 ### Extra
 
 - [x] [Python Data Science Toolbox (Part 2)](https://github.com/tommypratama/datacamp/tree/master/Python%20Data%20Science%20Toolbox%20(Part%202))
+- [ ] Introduction to Natural Language Processing in Python
 
 ## Projects
 
