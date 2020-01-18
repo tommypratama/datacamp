@@ -24,6 +24,8 @@ Seorang Analis Data menggunakan teknik visualisasi dan manipulasi data untuk men
 ### Extra
 
 - [x] [Python Data Science Toolbox (Part 2)](https://github.com/tommypratama/datacamp/tree/master/Python%20Data%20Science%20Toolbox%20(Part%202))
+- [x] [Introduction to Data Visualization with Seaborn](https://github.com/tommypratama/datacamp/tree/master/Introduction%20to%20Data%20Visualization%20with%20Seaborn)
+- [ ] [Analyzing Social Media Data in Python](https://github.com/tommypratama/datacamp/tree/master/Analyzing%20Social%20Media%20Data%20in%20Python)
 - [ ] Introduction to Natural Language Processing in Python
 
 ## Projects
@@ -45,7 +47,7 @@ Dirancang oleh instruktur ahli, Proyek DataCamp adalah langkah penting dalam per
 - [ ] [Analyze Your Runkeeper Fitness Data](https://www.datacamp.com/projects/727)
 - [ ] [Book Recommendations from Charles Darwin](https://www.datacamp.com/projects/607)
 - [ ] [Give Life: Predict Blood Donations](https://www.datacamp.com/projects/646)
-- [ ] [The Android App Market on Google Play](https://www.datacamp.com/projects/619)
+- [x] [The Android App Market on Google Play](https://www.datacamp.com/projects/619)
 - [ ] [Find Movie Similarity from Plot Summaries](https://www.datacamp.com/projects/648)
 - [ ] [Which Debts Are Worth the Bank's Effort?](https://www.datacamp.com/projects/504)
 - [ ] [The GitHub History of the Scala Language](https://www.datacamp.com/projects/163)
