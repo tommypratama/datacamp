@@ -6,10 +6,10 @@ Sebagai *Data Scientist*, sebagian besar waktu Anda harus dihabiskan untuk mengu
 
 ## Daftar Isi
 
-- [ ] **Foundations for efficiencies**
-- [ ] **Timing and profiling code**
-- [ ] **Gaining efficiencies**
-- [ ] **Basic pandas optimizations**
+- [x] **Foundations for efficiencies**
+- [x] **Timing and profiling code**
+- [x] **Gaining efficiencies**
+- [x] **Basic pandas optimizations**
 
 ## Prasyarat
 
