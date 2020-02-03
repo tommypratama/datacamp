@@ -25,6 +25,7 @@ Seorang Analis Data menggunakan teknik visualisasi dan manipulasi data untuk men
 
 - [x] [Python Data Science Toolbox (Part 2)](https://github.com/tommypratama/datacamp/tree/master/Python%20Data%20Science%20Toolbox%20(Part%202))
 - [x] [Introduction to Data Visualization with Seaborn](https://github.com/tommypratama/datacamp/tree/master/Introduction%20to%20Data%20Visualization%20with%20Seaborn)
+- [x] [Intermediate Data Visualization with Seaborn](https://github.com/tommypratama/datacamp/tree/master/Intermediate%20Data%20Visualization%20with%20Seaborn)
 - [ ] [Analyzing Social Media Data in Python](https://github.com/tommypratama/datacamp/tree/master/Analyzing%20Social%20Media%20Data%20in%20Python)
 - [ ] Introduction to Natural Language Processing in Python
 
@@ -35,7 +36,7 @@ Di mana Kursus mengajarkan Anda keterampilan ilmu data baru dan Mode Praktik mem
 Dirancang oleh instruktur ahli, Proyek DataCamp adalah langkah penting dalam perjalanan Anda untuk menjadi fasih data dan membantu Anda membangun portofolio ilmu data Anda.
 
 - [ ] [Introduction to DataCamp Projects](https://www.datacamp.com/projects/33)
-- [ ] [Dr. Semmelweis and the Discovery of Handwashing](https://www.datacamp.com/projects/20)
+- [x] [Dr. Semmelweis and the Discovery of Handwashing](https://www.datacamp.com/projects/20)
 - [ ] [Exploring 67 years of LEGO](https://www.datacamp.com/projects/10)
 - [ ] [Exploring the Bitcoin Cryptocurrency Market](https://www.datacamp.com/projects/82)
 - [ ] [Word Frequency in Moby Dick](https://www.datacamp.com/projects/38)
