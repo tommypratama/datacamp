@@ -6,10 +6,10 @@ Kemampuan untuk bekerja secara efisien dengan kumpulan data besar dan mengekstra
 
 ## Daftar Isi
 
-- [ ] **Selecting columns and rows efficiently**
-- [ ] **Replacing values in a DataFrame**
-- [ ] **Efficient iterating**
-- [ ] **Data manipulation using .groupby()**
+- [x] **Selecting columns and rows efficiently**
+- [x] **Replacing values in a DataFrame**
+- [x] **Efficient iterating**
+- [x] **Data manipulation using .groupby()**
 
 ## Prasyarat
 
@@ -17,9 +17,9 @@ Kemampuan untuk bekerja secara efisien dengan kumpulan data besar dan mengekstra
    
 ## Datasets
 
-* []()
-* []()
-* []()
+* [Poker](https://assets.datacamp.com/production/repositories/3832/datasets/c715cfae17d00d26693da8e612cb5fbd64e69589/poker_hand.csv)
+* [Popular Baby Names](https://assets.datacamp.com/production/repositories/3832/datasets/51d9e4abea83c4b10498a936d2ffbc28c0745b4f/Popular_Baby_Names.csv)
+* [Restaurant](https://assets.datacamp.com/production/repositories/3832/datasets/5496a658cc7ea792ee295d61937f8b12659884ff/restaurant_data.csv)
 
 
 ## Sumber
